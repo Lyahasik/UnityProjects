@@ -22,7 +22,7 @@ https://github.com/Lyahasik/SchoolGameJam
 </details>
   
 <space><details><summary>` Siberian game jam may 2020 `</summary>
-![Alt Text](https://media.giphy.com/media/Aft6vUE4zGAnP8NGpa/giphy-downsized-large.gif)<br />
+![Alt Text](https://media.giphy.com/media/0omLtfxezMSuU9a7OP/giphy.gif)<br />
 https://github.com/Lyahasik/SGJ.05.2020
 </details>
   
