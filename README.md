@@ -30,6 +30,10 @@ https://github.com/Lyahasik/SGJ.05.2020
 
 <details><summary> <--- Тестовые задания ---> </summary>
 
+<space><details><summary>`2.5D игра клон Knife Hit`</summary>
+https://github.com/Lyahasik/test10
+</details>
+
 <space><details><summary>`3D игра стелс квестовый`</summary>
 ![Alt Text](https://media.giphy.com/media/BhoospYymK8pN5ykos/giphy.gif)<br />
 https://github.com/Lyahasik/test9
