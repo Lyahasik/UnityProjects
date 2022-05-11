@@ -31,10 +31,12 @@ https://github.com/Lyahasik/SGJ.05.2020
 <details><summary> <--- Тестовые задания ---> </summary>
 
 <space><details><summary>`2D space shooter`</summary>
+![Alt Text](https://media.giphy.com/media/mQ0CKojwRm77hH0dYa/giphy.gif)<br />
 https://github.com/Lyahasik/SpaceTest
 </details>
 
 <space><details><summary>`2.5D игра клон Knife Hit`</summary>
+![Alt Text](https://media.giphy.com/media/Xt39lITeyk0wDJUuvx/giphy.gif)<br />
 https://github.com/Lyahasik/test10
 </details>
   
