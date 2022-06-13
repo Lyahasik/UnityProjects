@@ -28,24 +28,62 @@ https://github.com/Lyahasik/SGJ.05.2020
   
 </details>
 
-<details><summary> <--- Тестовые задания ---> </summary>
+<details><summary> <--- Прототипы ---> </summary>
 
-<space><details><summary>`Клон hit master`</summary>
+<space><details><summary>`Мини Diablo`</summary>
 https://github.com/Lyahasik/DiabloMini
 </details>
   
 <space><details><summary>`Клон hit master`</summary>
 https://github.com/Lyahasik/HitMasterClone
 </details>
-
-<space><details><summary>`2D space shooter`</summary>
-![Alt Text](https://media.giphy.com/media/mQ0CKojwRm77hH0dYa/giphy.gif)<br />
-https://github.com/Lyahasik/SpaceTest
+<space><details><summary>`2.5D игра клон Knife Hit`</summary>
+https://github.com/Lyahasik/test10
 </details>
 
-<space><details><summary>`2.5D игра клон Knife Hit`</summary>
-![Alt Text](https://media.giphy.com/media/Xt39lITeyk0wDJUuvx/giphy.gif)<br />
-https://github.com/Lyahasik/test10
+<space><details><summary>`3D игра стелс квестовый`</summary>
+![Alt Text](https://media.giphy.com/media/BhoospYymK8pN5ykos/giphy.gif)<br />
+https://github.com/Lyahasik/test9
+</details>
+
+<space><details><summary>`3D шутер от 3 лица`</summary>
+![Alt Text](https://media.giphy.com/media/Y6Mb6rvG4uwvLZlk1A/giphy.gif)<br />
+https://github.com/Lyahasik/test8
+</details>
+
+<space><details><summary>`3D action RPG с видом от 3 лица`</summary>
+![Alt Text](https://media.giphy.com/media/7xqpLFLocPVeLjNGtw/giphy.gif)<br />
+https://github.com/Lyahasik/test7
+</details>
+
+<space><details><summary>`3D шутер арена`</summary>
+![Alt Text](https://media.giphy.com/media/u0K9p7PLPifxB1BxuJ/giphy.gif)<br />
+https://github.com/Lyahasik/test6
+</details>
+
+<space><details><summary>`3D игра с танками`</summary>
+![Alt Text](https://media.giphy.com/media/Brk5djgIvvS7Yu0wck/giphy.gif)<br />
+https://github.com/Lyahasik/test5
+</details>
+
+<space><details><summary>`3D игра гольф`</summary>
+![Alt Text](https://media.giphy.com/media/qn5AAHUgwkgMCwGkG6/giphy.gif)<br />
+https://github.com/Lyahasik/test4
+</details>
+
+<space><details><summary>`Для работающей 2D игры, жанра tower defense, добавить интерактивное GUI`</summary>
+![Alt Text](https://media.giphy.com/media/feq9caOkBkOlZV3UND/giphy.gif)<br />
+https://github.com/Lyahasik/test3
+</details>
+
+<space><details><summary>`2D головоломка с использованием физики`</summary>
+![Alt Text](https://media.giphy.com/media/FD7GIVvdETIIPCM8p4/giphy.gif)<br />
+https://github.com/Lyahasik/test2
+</details>
+
+<space><details><summary>`2D столкновения без использования физики движка`</summary>
+![Alt Text](https://media.giphy.com/media/FGmnSxS1wlzL6NjU2z/giphy.gif)<br />
+https://github.com/Lyahasik/test1
 </details>
   
 </details>
