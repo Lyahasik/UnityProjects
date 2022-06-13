@@ -30,6 +30,14 @@ https://github.com/Lyahasik/SGJ.05.2020
 
 <details><summary> <--- Тестовые задания ---> </summary>
 
+<space><details><summary>`Клон hit master`</summary>
+https://github.com/Lyahasik/DiabloMini
+</details>
+  
+<space><details><summary>`Клон hit master`</summary>
+https://github.com/Lyahasik/HitMasterClone
+</details>
+
 <space><details><summary>`2D space shooter`</summary>
 ![Alt Text](https://media.giphy.com/media/mQ0CKojwRm77hH0dYa/giphy.gif)<br />
 https://github.com/Lyahasik/SpaceTest
