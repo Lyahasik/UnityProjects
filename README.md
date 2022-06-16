@@ -1,33 +1,5 @@
 # Список репозиториев с проектами Unity.
 
-<details><summary> <--- Законченные миниигры ---> </summary>
-
-<space><details><summary>`Space game`</summary>
-![Alt Text](https://media.giphy.com/media/ygIJ3jw5bPy0D7fFJG/giphy.gif)<br />
-https://github.com/Lyahasik/SpaceGame
-</details>
-  
-<space><details><summary>`In the shadows`</summary>
-![Alt Text](https://media.giphy.com/media/riSyyLJC7oV0am2JRu/giphy.gif)<br />
-https://github.com/Lyahasik/InTheShadows
-</details>
-  
-</details>
-
-<details><summary> <--- Game jams ---> </summary>
-
-<space><details><summary>` School game jam `</summary>
-![Alt Text](https://media.giphy.com/media/BD6EvOKcIA05LBdRMl/giphy.gif)<br />
-https://github.com/Lyahasik/SchoolGameJam
-</details>
-  
-<space><details><summary>` Siberian game jam may 2020 `</summary>
-![Alt Text](./gamejam.gif)<br />
-https://github.com/Lyahasik/SGJ.05.2020
-</details>
-  
-</details>
-
 <details><summary> <--- Прототипы ---> </summary>
 
 <space><details><summary>`Мини Diablo`</summary>
@@ -85,6 +57,34 @@ https://github.com/Lyahasik/test2
 <space><details><summary>`2D столкновения без использования физики движка`</summary>
 ![Alt Text](https://media.giphy.com/media/FGmnSxS1wlzL6NjU2z/giphy.gif)<br />
 https://github.com/Lyahasik/test1
+</details>
+  
+</details>
+  
+<details><summary> <--- Законченные миниигры ---> </summary>
+
+<space><details><summary>`Space game`</summary>
+![Alt Text](https://media.giphy.com/media/ygIJ3jw5bPy0D7fFJG/giphy.gif)<br />
+https://github.com/Lyahasik/SpaceGame
+</details>
+  
+<space><details><summary>`In the shadows`</summary>
+![Alt Text](https://media.giphy.com/media/riSyyLJC7oV0am2JRu/giphy.gif)<br />
+https://github.com/Lyahasik/InTheShadows
+</details>
+  
+</details>
+
+<details><summary> <--- Game jams ---> </summary>
+
+<space><details><summary>` School game jam `</summary>
+![Alt Text](https://media.giphy.com/media/BD6EvOKcIA05LBdRMl/giphy.gif)<br />
+https://github.com/Lyahasik/SchoolGameJam
+</details>
+  
+<space><details><summary>` Siberian game jam may 2020 `</summary>
+![Alt Text](./gamejam.gif)<br />
+https://github.com/Lyahasik/SGJ.05.2020
 </details>
   
 </details>
